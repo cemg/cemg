@@ -9,8 +9,13 @@ I'm **Cem Gündüzoğlu**.
 - 🐦 [**Twitter**](https://twitter.com/cemgunduzoglu)
 - 🏹 [**LinkedIn**](https://linkedin.com/in/cemgunduzoglu)
 
+#### 🎁 My Udemy Course Coupons
+- [Laravel 7 ile Sıfırdan RESTful API Uygulamaları Geliştirme](https://link.uzaktankurs.com/RESTFULAPI)
+- [Vue.js ile Sıfırdan Uygulama Geliştirme Eğitimi](https://link.uzaktankurs.com/VUEJS_EGITIMI)
+- [Laravel ile Sıfırdan Eticaret Projesi Eğitimi](https://link.uzaktankurs.com/LARAVEL_ETICARET)
+
 <details>
-  <summary>📌 Technical Expertise</summary>
+  <summary>📌 <b>Technical Expertise</b></summary>
   ✅ Backend Stack 1: C#, ASP.NET Core, WebApi, SignalR<br>
   ✅ Backend Stack 2: PHP, Laravel<br>
   ✅ Database: SqlServer, MySql, PostgreSql, Sqlite, MongoDb<br>
@@ -22,6 +27,6 @@ I'm **Cem Gündüzoğlu**.
 </details>
 
 <details>
-  <summary>⚡ Stats</summary>
+  <summary>⚡ <b>Stats</b></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=cemg&show_icons=true&count_private=true&theme=dark" />
 </details>
